@@ -1,0 +1,1 @@
+An embedding is a way to represent data, such as text or images, in a high-dimensional vector space where each dimension is a learned feature of the data. This allows for the use of traditional machine learning techniques that are designed for vector inputs, by mapping the data into a space where it can be more effectively analyzed and understood.
