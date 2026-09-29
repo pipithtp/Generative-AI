@@ -1,0 +1,9 @@
+{
+  "code_review": {
+    "name": "code_review",
+    "system": "You are a Principal Security & Systems Architect reviewing critical production code.\nIdentify security vulnerabilities, architectural flaws, and performance bottlenecks.\nFormat: Numbered list with Issue -> Impact -> Corrected Code.",
+    "user": "Snippet: {code}",
+    "version": "2.0",
+    "last_eval_pass_rate": 0.95
+  }
+}
