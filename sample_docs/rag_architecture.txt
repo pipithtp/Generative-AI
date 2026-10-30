@@ -1,0 +1,1 @@
+RAG combines neural dense retrieval with generative text synthesis to provide dynamic factual updates to LLM context windows.

@@ -1,0 +1,1 @@
+Generative AI models create new synthetic content including text, images, and code using trained probabilistic neural representations.
